@@ -1,0 +1,7 @@
+﻿  Matrix.cpp
+e:\projects\secondlabwork\secondlabwork\matrix.h(45): warning C4018: '<': signed/unsigned mismatch
+e:\projects\secondlabwork\secondlabwork\matrix.cpp(58): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  SecondLabWork.cpp
+e:\projects\secondlabwork\secondlabwork\matrix.h(45): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  SecondLabWork.vcxproj -> E:\Projects\SecondLabWork\Debug\SecondLabWork.exe
